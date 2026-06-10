@@ -8,3 +8,4 @@ Electric guitar pedals typically implement delay in one of two ways: an analog b
 
 ## LFO
 Now that we have the delay figured out, we need an LFO to modulate said delay. The LFO I use in my circuit was inspired by the LFO in the Boss CE-2 chorus pedal, and edited to fit my needs. 
+Below is the LFO found in the CE-2 pedal: 
